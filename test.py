@@ -1,1 +1,1 @@
-raw_input(prompt)
+print('hello git!')
